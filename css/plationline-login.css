@@ -1,0 +1,48 @@
+#po6-login {
+    color: #000;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    margin-bottom: 20px;
+    background: #E7E8E9;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px #eee;
+    border: 1px solid #ccc
+}
+
+#po6-login span {
+    line-height: 31px;
+    margin-left: 10px;
+}
+
+#po6-logo {
+    vertical-align: middle;
+    height: 31px;
+    box-shadow: none !important;
+}
+
+
+#po6-repay {
+    color: #000;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    margin-bottom: 20px;
+    background: #E7E8E9;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px #eee;
+    border: 1px solid #ccc;
+    width:100%;
+    text-align: center;
+}
+
+#po6-repay span {
+    line-height: 31px;
+    margin-left: 10px;
+}
+
+#po6-repay-logo {
+    vertical-align: middle;
+    height: 22px;
+    box-shadow: none !important;
+}
